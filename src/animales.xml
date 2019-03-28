@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE monticulo SYSTEM "animales.dtd" >
+<?xml-stylesheet type="text/xsl" href="animales.xsl" ?>
+<monticulo>
+  <nodo>
+    <oracion>"Tiene cuernos"</oracion>
+  </nodo>
+  <nodo>
+    <oracion>"Hace Muuu"</oracion>
+  </nodo>
+  <nodo>
+    <oracion>"Salta"</oracion>
+  </nodo>
+  <nodo>
+    <oracion>"Es una vaca"</oracion>
+  </nodo>
+  <nodo>
+    <oracion>"Es un venado"</oracion>
+  </nodo>
+  <nodo>
+    <oracion>"Es un canguro"</oracion>
+  </nodo>
+  <nodo>
+    <oracion>"Es un koala"</oracion>
+  </nodo>
+</monticulo>
